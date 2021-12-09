@@ -18,6 +18,7 @@
     "build": "tsc",
     "commit": "cz",
     "test": "mocha 'src/**/*spec.ts'",
+    "test:cov": "nyc mocha 'src/**/*spec.ts'",
     "release": "standard-version",
     "lint": "eslint \"{src,test}/**/*.ts\" --fix",
     "format": "prettier --write \"{src,test}/**/*.ts\""
