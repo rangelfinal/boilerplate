@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "schedule:earlyMondays",
+    "config:base",
+    "group:recommended",
+    ":ignoreUnstable",
+    ":semanticPrefixFixDepsChoreOthers",
+    ":maintainLockFilesWeekly",
+    ":automergePatch",
+    ":automergeLinters",
+    ":automergePr",
+    ":automergeRequireAllStatusChecks"
+  ]
+}

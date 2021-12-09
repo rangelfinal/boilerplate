@@ -1,0 +1,20 @@
+# Development folders
+.git/
+.vscode/
+.nyc_output/
+coverage/
+chart/
+dist/
+test/
+
+# Yarn Zero-Installs
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Env file
+.env
