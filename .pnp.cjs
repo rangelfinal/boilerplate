@@ -449,7 +449,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cosmiconfig", "npm:7.0.1"],
             ["lodash", "npm:4.17.21"],
             ["resolve-from", "npm:5.0.0"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=de8f8a"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=de8f8a"]
           ],
           "linkType": "HARD",
         }]
@@ -701,10 +701,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@npmcli/fs", [
-        ["npm:1.0.0", {
-          "packageLocation": "./.yarn/cache/@npmcli-fs-npm-1.0.0-92194475f3-f2b4990107.zip/node_modules/@npmcli/fs/",
+        ["npm:1.1.0", {
+          "packageLocation": "./.yarn/cache/@npmcli-fs-npm-1.1.0-fa0ae1b053-e435b883b4.zip/node_modules/@npmcli/fs/",
           "packageDependencies": [
-            ["@npmcli/fs", "npm:1.0.0"],
+            ["@npmcli/fs", "npm:1.1.0"],
             ["@gar/promisify", "npm:1.1.2"],
             ["semver", "npm:7.3.5"]
           ],
@@ -1460,7 +1460,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["browserslist", "npm:4.18.1"],
             ["caniuse-lite", "npm:1.0.30001286"],
-            ["electron-to-chromium", "npm:1.4.14"],
+            ["electron-to-chromium", "npm:1.4.15"],
             ["escalade", "npm:3.1.1"],
             ["node-releases", "npm:2.0.1"],
             ["picocolors", "npm:1.0.0"]
@@ -1482,7 +1482,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/cacache-npm-15.3.0-a7e5239c6a-a07327c27a.zip/node_modules/cacache/",
           "packageDependencies": [
             ["cacache", "npm:15.3.0"],
-            ["@npmcli/fs", "npm:1.0.0"],
+            ["@npmcli/fs", "npm:1.1.0"],
             ["@npmcli/move-file", "npm:1.1.2"],
             ["chownr", "npm:2.0.0"],
             ["fs-minipass", "npm:2.1.0"],
@@ -2603,10 +2603,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["electron-to-chromium", [
-        ["npm:1.4.14", {
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.14-530d8fd0e1-7aaf299d9c.zip/node_modules/electron-to-chromium/",
+        ["npm:1.4.15", {
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.15-baacd299d6-06b91eeee4.zip/node_modules/electron-to-chromium/",
           "packageDependencies": [
-            ["electron-to-chromium", "npm:1.4.14"]
+            ["electron-to-chromium", "npm:1.4.15"]
           ],
           "linkType": "HARD",
         }]
@@ -7126,13 +7126,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["typescript", [
-        ["patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=de8f8a", {
-          "packageLocation": "./.yarn/cache/typescript-patch-2d2a037988-e25e689eba.zip/node_modules/typescript/",
-          "packageDependencies": [
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=de8f8a"]
-          ],
-          "linkType": "HARD",
-        }],
         ["patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=de8f8a", {
           "packageLocation": "./.yarn/cache/typescript-patch-b77a6071c2-331fbcce6d.zip/node_modules/typescript/",
           "packageDependencies": [
