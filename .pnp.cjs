@@ -1460,7 +1460,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["browserslist", "npm:4.18.1"],
             ["caniuse-lite", "npm:1.0.30001286"],
-            ["electron-to-chromium", "npm:1.4.15"],
+            ["electron-to-chromium", "npm:1.4.16"],
             ["escalade", "npm:3.1.1"],
             ["node-releases", "npm:2.0.1"],
             ["picocolors", "npm:1.0.0"]
@@ -2603,10 +2603,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["electron-to-chromium", [
-        ["npm:1.4.15", {
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.15-baacd299d6-06b91eeee4.zip/node_modules/electron-to-chromium/",
+        ["npm:1.4.16", {
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.16-174398a3b4-97ec768ba3.zip/node_modules/electron-to-chromium/",
           "packageDependencies": [
-            ["electron-to-chromium", "npm:1.4.15"]
+            ["electron-to-chromium", "npm:1.4.16"]
           ],
           "linkType": "HARD",
         }]
@@ -2689,11 +2689,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["has-symbols", "npm:1.0.2"],
             ["internal-slot", "npm:1.0.3"],
             ["is-callable", "npm:1.2.4"],
-            ["is-negative-zero", "npm:2.0.1"],
+            ["is-negative-zero", "npm:2.0.2"],
             ["is-regex", "npm:1.1.4"],
             ["is-shared-array-buffer", "npm:1.0.1"],
             ["is-string", "npm:1.0.7"],
-            ["is-weakref", "npm:1.0.1"],
+            ["is-weakref", "npm:1.0.2"],
             ["object-inspect", "npm:1.11.1"],
             ["object-keys", "npm:1.1.1"],
             ["object.assign", "npm:4.1.2"],
@@ -3798,7 +3798,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minimist", "npm:1.2.5"],
             ["neo-async", "npm:2.6.2"],
             ["source-map", "npm:0.6.1"],
-            ["uglify-js", "npm:3.14.4"],
+            ["uglify-js", "npm:3.14.5"],
             ["wordwrap", "npm:1.0.0"]
           ],
           "linkType": "HARD",
@@ -4268,10 +4268,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["is-negative-zero", [
-        ["npm:2.0.1", {
-          "packageLocation": "./.yarn/cache/is-negative-zero-npm-2.0.1-d8f3dbcfe1-a46f2e0cb5.zip/node_modules/is-negative-zero/",
+        ["npm:2.0.2", {
+          "packageLocation": "./.yarn/cache/is-negative-zero-npm-2.0.2-0adac91f15-f3232194c4.zip/node_modules/is-negative-zero/",
           "packageDependencies": [
-            ["is-negative-zero", "npm:2.0.1"]
+            ["is-negative-zero", "npm:2.0.2"]
           ],
           "linkType": "HARD",
         }]
@@ -4407,10 +4407,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["is-weakref", [
-        ["npm:1.0.1", {
-          "packageLocation": "./.yarn/cache/is-weakref-npm-1.0.1-152a166933-fdafb7b955.zip/node_modules/is-weakref/",
+        ["npm:1.0.2", {
+          "packageLocation": "./.yarn/cache/is-weakref-npm-1.0.2-ff80e8c314-95bd9a57cd.zip/node_modules/is-weakref/",
           "packageDependencies": [
-            ["is-weakref", "npm:1.0.1"],
+            ["is-weakref", "npm:1.0.2"],
             ["call-bind", "npm:1.0.2"]
           ],
           "linkType": "HARD",
@@ -7135,10 +7135,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["uglify-js", [
-        ["npm:3.14.4", {
-          "packageLocation": "./.yarn/cache/uglify-js-npm-3.14.4-690963fdb4-13217db521.zip/node_modules/uglify-js/",
+        ["npm:3.14.5", {
+          "packageLocation": "./.yarn/cache/uglify-js-npm-3.14.5-1b38db7303-0330eb11a3.zip/node_modules/uglify-js/",
           "packageDependencies": [
-            ["uglify-js", "npm:3.14.4"]
+            ["uglify-js", "npm:3.14.5"]
           ],
           "linkType": "HARD",
         }]
