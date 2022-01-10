@@ -100,9 +100,9 @@ async function tryReadFile(path2) {
     throw error;
   }
 }
-function tryParseURL(str) {
+function tryParseURL(str, base) {
   try {
-    return new URL(str);
+    return new URL(str, base);
   } catch {
     return null;
   }
@@ -180,17 +180,18 @@ async function load$1(urlString, context, defaultLoad) {
 }
 
 const pathRegExp = /^(?![a-zA-Z]:[\\/]|\\\\|\.{0,2}(?:\/|$))((?:node:)?(?:@[^/]+\/)?[^/]+)\/*(.*|)$/;
+const isRelativeRegexp = /^\.{0,2}\//;
 async function resolve$1(originalSpecifier, context, defaultResolver) {
   var _a;
   const {findPnpApi} = moduleExports;
   if (!findPnpApi || isBuiltinModule(originalSpecifier))
     return defaultResolver(originalSpecifier, context, defaultResolver);
   let specifier = originalSpecifier;
-  const url = tryParseURL(specifier);
+  const url = tryParseURL(specifier, isRelativeRegexp.test(specifier) ? context.parentURL : void 0);
   if (url) {
     if (url.protocol !== `file:`)
       return defaultResolver(originalSpecifier, context, defaultResolver);
-    specifier = fileURLToPath(specifier);
+    specifier = fileURLToPath(url);
   }
   const {parentURL, conditions = []} = context;
   const issuer = parentURL ? fileURLToPath(parentURL) : process.cwd();
@@ -218,8 +219,13 @@ async function resolve$1(originalSpecifier, context, defaultResolver) {
   });
   if (!result)
     throw new Error(`Resolving '${specifier}' from '${issuer}' failed`);
+  const resultURL = pathToFileURL(result);
+  if (url) {
+    resultURL.search = url.search;
+    resultURL.hash = url.hash;
+  }
   return {
-    url: pathToFileURL(result).href
+    url: resultURL.href
   };
 }
 
