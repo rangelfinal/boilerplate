@@ -56,7 +56,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-promise", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.2.0"],
             ["husky", "npm:7.0.4"],
             ["lint-staged", "npm:12.1.7"],
-            ["mocha", "npm:9.1.3"],
+            ["mocha", "npm:9.1.4"],
             ["nyc", "npm:15.1.0"],
             ["prettier", "npm:2.5.1"],
             ["standard-version", "npm:9.3.2"],
@@ -750,7 +750,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-promise", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.2.0"],
             ["husky", "npm:7.0.4"],
             ["lint-staged", "npm:12.1.7"],
-            ["mocha", "npm:9.1.3"],
+            ["mocha", "npm:9.1.4"],
             ["nyc", "npm:15.1.0"],
             ["prettier", "npm:2.5.1"],
             ["standard-version", "npm:9.3.2"],
@@ -2362,6 +2362,20 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
+        ["virtual:855e7299af581b7ff13ab463dd6fb681d18238159b1780e6521550e0fea5869f7b7a2685beae2f4330ab3f043c863df533a5ccf083581d03ecad51680130b717#npm:4.3.2", {
+          "packageLocation": "./.yarn/__virtual__/debug-virtual-f253c61b00/0/cache/debug-npm-4.3.2-f0148b6afe-820ea160e2.zip/node_modules/debug/",
+          "packageDependencies": [
+            ["debug", "virtual:855e7299af581b7ff13ab463dd6fb681d18238159b1780e6521550e0fea5869f7b7a2685beae2f4330ab3f043c863df533a5ccf083581d03ecad51680130b717#npm:4.3.2"],
+            ["@types/supports-color", null],
+            ["ms", "npm:2.1.2"],
+            ["supports-color", "npm:8.1.1"]
+          ],
+          "packagePeers": [
+            "@types/supports-color",
+            "supports-color"
+          ],
+          "linkType": "HARD",
+        }],
         ["virtual:9dde32d58cb7b44797f8b794bf34ef4f8b7529d474cef6d94f666fac42a0a8419c1113fbabf731335eb743fc9c51f577f0b0a5d5710f4c92656d2e3f15e5deb9#npm:2.6.9", {
           "packageLocation": "./.yarn/__virtual__/debug-virtual-a1ec81838f/0/cache/debug-npm-2.6.9-7d4cb597dc-d2f51589ca.zip/node_modules/debug/",
           "packageDependencies": [
@@ -2383,20 +2397,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/supports-color", null],
             ["ms", "npm:2.1.2"],
             ["supports-color", null]
-          ],
-          "packagePeers": [
-            "@types/supports-color",
-            "supports-color"
-          ],
-          "linkType": "HARD",
-        }],
-        ["virtual:cf8df742ce8e4e935902993bcfceab61a23301352e0174959d2524c3ce25388a4d3477170dec0ebaf85f7f409c4c58568061d13cf886536628fdbe79510fc4de#npm:4.3.2", {
-          "packageLocation": "./.yarn/__virtual__/debug-virtual-81e1236598/0/cache/debug-npm-4.3.2-f0148b6afe-820ea160e2.zip/node_modules/debug/",
-          "packageDependencies": [
-            ["debug", "virtual:cf8df742ce8e4e935902993bcfceab61a23301352e0174959d2524c3ce25388a4d3477170dec0ebaf85f7f409c4c58568061d13cf886536628fdbe79510fc4de#npm:4.3.2"],
-            ["@types/supports-color", null],
-            ["ms", "npm:2.1.2"],
-            ["supports-color", "npm:8.1.1"]
           ],
           "packagePeers": [
             "@types/supports-color",
@@ -5187,15 +5187,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["mocha", [
-        ["npm:9.1.3", {
-          "packageLocation": "./.yarn/cache/mocha-npm-9.1.3-cf8df742ce-4185038f1d.zip/node_modules/mocha/",
+        ["npm:9.1.4", {
+          "packageLocation": "./.yarn/cache/mocha-npm-9.1.4-855e7299af-8b3cc4333d.zip/node_modules/mocha/",
           "packageDependencies": [
-            ["mocha", "npm:9.1.3"],
+            ["mocha", "npm:9.1.4"],
             ["@ungap/promise-all-settled", "npm:1.1.2"],
             ["ansi-colors", "npm:4.1.1"],
             ["browser-stdout", "npm:1.3.1"],
             ["chokidar", "npm:3.5.2"],
-            ["debug", "virtual:cf8df742ce8e4e935902993bcfceab61a23301352e0174959d2524c3ce25388a4d3477170dec0ebaf85f7f409c4c58568061d13cf886536628fdbe79510fc4de#npm:4.3.2"],
+            ["debug", "virtual:855e7299af581b7ff13ab463dd6fb681d18238159b1780e6521550e0fea5869f7b7a2685beae2f4330ab3f043c863df533a5ccf083581d03ecad51680130b717#npm:4.3.2"],
             ["diff", "npm:5.0.0"],
             ["escape-string-regexp", "npm:4.0.0"],
             ["find-up", "npm:5.0.0"],
