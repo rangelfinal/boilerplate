@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.21"],
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.0"],
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.0"],
-            ["chai", "npm:4.3.4"],
+            ["chai", "npm:4.3.6"],
             ["commitiquette", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:1.2.1"],
             ["commitizen", "npm:4.2.4"],
             ["cz-conventional-changelog", "npm:3.3.0"],
@@ -736,7 +736,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.21"],
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.0"],
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.0"],
-            ["chai", "npm:4.3.4"],
+            ["chai", "npm:4.3.6"],
             ["commitiquette", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:1.2.1"],
             ["commitizen", "npm:4.2.4"],
             ["cz-conventional-changelog", "npm:3.3.0"],
@@ -1657,14 +1657,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["chai", [
-        ["npm:4.3.4", {
-          "packageLocation": "./.yarn/cache/chai-npm-4.3.4-808f3b5355-772c522b3b.zip/node_modules/chai/",
+        ["npm:4.3.6", {
+          "packageLocation": "./.yarn/cache/chai-npm-4.3.6-dba90e4b0b-acff93fd53.zip/node_modules/chai/",
           "packageDependencies": [
-            ["chai", "npm:4.3.4"],
+            ["chai", "npm:4.3.6"],
             ["assertion-error", "npm:1.1.0"],
             ["check-error", "npm:1.0.2"],
             ["deep-eql", "npm:3.0.1"],
             ["get-func-name", "npm:2.0.0"],
+            ["loupe", "npm:2.3.1"],
             ["pathval", "npm:1.1.1"],
             ["type-detect", "npm:4.0.8"]
           ],
@@ -4936,6 +4937,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/longest-npm-2.0.1-4579de9937-9587c15391.zip/node_modules/longest/",
           "packageDependencies": [
             ["longest", "npm:2.0.1"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["loupe", [
+        ["npm:2.3.1", {
+          "packageLocation": "./.yarn/cache/loupe-npm-2.3.1-d7dcc773a0-11b4c4c9eb.zip/node_modules/loupe/",
+          "packageDependencies": [
+            ["loupe", "npm:2.3.1"],
+            ["get-func-name", "npm:2.0.0"]
           ],
           "linkType": "HARD",
         }]
