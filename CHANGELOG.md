@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/rangelfinal/boilerplate/compare/v2.0.8...v2.1.0) (2022-02-08)
+
+
+### Features
+
+* add nestjs & mikro-orm ([b82ed48](https://github.com/rangelfinal/boilerplate/commit/b82ed48a08b175c6dfc281982fb4a10156f836db))
+
 ### [2.0.8](https://github.com/rangelfinal/boilerplate/compare/v2.0.7...v2.0.8) (2021-12-20)
 
 ### [2.0.7](https://github.com/rangelfinal/boilerplate/compare/v2.0.6...v2.0.7) (2021-12-20)
