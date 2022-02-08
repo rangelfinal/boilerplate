@@ -56,3 +56,4 @@ web_modules/
 
 # Build files
 dist/
+temp/
