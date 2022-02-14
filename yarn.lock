@@ -659,7 +659,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mikro-orm/cli@npm:^4.5.10":
+"@mikro-orm/cli@npm:4.5.10":
   version: 4.5.10
   resolution: "@mikro-orm/cli@npm:4.5.10"
   dependencies:
@@ -782,7 +782,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mikro-orm/migrations@npm:^4.5.10":
+"@mikro-orm/migrations@npm:4.5.10, @mikro-orm/migrations@npm:^4.5.10":
   version: 4.5.10
   resolution: "@mikro-orm/migrations@npm:4.5.10"
   dependencies:
@@ -832,7 +832,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/cli@npm:^8.2.0":
+"@nestjs/cli@npm:8.2.0":
   version: 8.2.0
   resolution: "@nestjs/cli@npm:8.2.0"
   dependencies:
@@ -1074,13 +1074,13 @@ __metadata:
     "@commitlint/config-conventional": 15.0.0
     "@commitlint/load": 15.0.0
     "@commitlint/types": 15.0.0
-    "@mikro-orm/cli": ^4.5.10
+    "@mikro-orm/cli": 4.5.10
     "@mikro-orm/core": ^4.5.10
-    "@mikro-orm/migrations": ^4.5.10
+    "@mikro-orm/migrations": 4.5.10
     "@mikro-orm/nestjs": ^4.3.1
     "@mikro-orm/postgresql": ^4.5.10
     "@mikro-orm/reflection": ^4.5.10
-    "@nestjs/cli": ^8.2.0
+    "@nestjs/cli": 8.2.0
     "@nestjs/common": ^8.2.6
     "@nestjs/config": ^1.1.6
     "@nestjs/core": ^8.2.6
@@ -1089,9 +1089,9 @@ __metadata:
     "@types/chai": 4.3.0
     "@types/mocha": 9.0.0
     "@types/node": 16.11.22
-    "@types/uuid": ^8
-    "@types/validator": ^13
-    "@types/yargs": ^17
+    "@types/uuid": 8.3.4
+    "@types/validator": 13.7.1
+    "@types/yargs": 17.0.8
     "@typescript-eslint/eslint-plugin": 5.10.2
     "@typescript-eslint/parser": 5.10.2
     chai: 4.3.6
@@ -1342,14 +1342,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/uuid@npm:^8":
+"@types/uuid@npm:8.3.4":
   version: 8.3.4
   resolution: "@types/uuid@npm:8.3.4"
   checksum: 6f11f3ff70f30210edaa8071422d405e9c1d4e53abbe50fdce365150d3c698fe7bbff65c1e71ae080cbfb8fded860dbb5e174da96fdbbdfcaa3fb3daa474d20f
   languageName: node
   linkType: hard
 
-"@types/validator@npm:*, @types/validator@npm:^13":
+"@types/validator@npm:*, @types/validator@npm:13.7.1":
   version: 13.7.1
   resolution: "@types/validator@npm:13.7.1"
   checksum: 810649a23bc46928c85d933be73b106bacb651a412c4172e30a70e84c63cada595d391042274b16e1c05b391af3a4f157b360890fbc5462ee347275222d59b64
@@ -1380,7 +1380,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/yargs@npm:^17":
+"@types/yargs@npm:17.0.8":
   version: 17.0.8
   resolution: "@types/yargs@npm:17.0.8"
   dependencies:
