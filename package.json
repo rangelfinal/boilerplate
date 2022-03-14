@@ -1,6 +1,6 @@
 {
   "name": "@rangelfinal/boilerplate",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "main": "index.js",
   "license": "MIT",
   "description": "An opinionated typescript boilerplate",
