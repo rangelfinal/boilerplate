@@ -51,7 +51,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@nestjs/swagger", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.2.0"],\
             ["@types/chai", "npm:4.3.1"],\
             ["@types/mocha", "npm:9.0.0"],\
-            ["@types/node", "npm:16.11.26"],\
+            ["@types/node", "npm:16.11.27"],\
             ["@types/uuid", "npm:8.3.4"],\
             ["@types/validator", "npm:13.7.2"],\
             ["@types/yargs", "npm:17.0.10"],\
@@ -1764,7 +1764,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@nestjs/swagger", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.2.0"],\
             ["@types/chai", "npm:4.3.1"],\
             ["@types/mocha", "npm:9.0.0"],\
-            ["@types/node", "npm:16.11.26"],\
+            ["@types/node", "npm:16.11.27"],\
             ["@types/uuid", "npm:8.3.4"],\
             ["@types/validator", "npm:13.7.2"],\
             ["@types/yargs", "npm:17.0.10"],\
@@ -2013,10 +2013,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:16.11.26", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.26-6163d95b7d-57757caaba.zip/node_modules/@types/node/",\
+        ["npm:16.11.27", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.27-f4555d5131-6ed0c8c4d2.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:16.11.26"]\
+            ["@types/node", "npm:16.11.27"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -11729,7 +11729,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.9"],\
             ["@tsconfig/node14", "npm:1.0.1"],\
             ["@tsconfig/node16", "npm:1.0.2"],\
-            ["@types/node", "npm:16.11.26"],\
+            ["@types/node", "npm:16.11.27"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
