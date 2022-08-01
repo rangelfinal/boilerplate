@@ -1095,7 +1095,7 @@ __metadata:
     "@nestjs/swagger": ^5.2.0
     "@types/chai": 4.3.1
     "@types/mocha": 9.0.0
-    "@types/node": 16.11.45
+    "@types/node": 16.11.47
     "@types/uuid": 8.3.4
     "@types/validator": 13.7.4
     "@types/yargs": 17.0.10
@@ -1313,10 +1313,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.11.45":
-  version: 16.11.45
-  resolution: "@types/node@npm:16.11.45"
-  checksum: 57d61c951024f66d796e71e4a972faef266007398cd4e93a195822fea2d5deb41d0615f394a99ece89772b145ff057321d138c7e3442455dc7d785ff67cebde3
+"@types/node@npm:16.11.47":
+  version: 16.11.47
+  resolution: "@types/node@npm:16.11.47"
+  checksum: 26811000753fd1bb9a90a563fc72942ac3ad5d5b6c97609a090c1e24210e040597ba060e55a7a46cb22cc84dafee112d741f45652139c6166e8ce0c970b4f05a
   languageName: node
   linkType: hard
 
