@@ -65,7 +65,7 @@
     "@mikro-orm/cli": "4.5.10",
     "@mikro-orm/migrations": "4.5.10",
     "@nestjs/cli": "8.2.8",
-    "@types/chai": "4.3.2",
+    "@types/chai": "4.3.3",
     "@types/mocha": "9.0.0",
     "@types/node": "16.11.47",
     "@types/uuid": "8.3.4",

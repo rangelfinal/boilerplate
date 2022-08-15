@@ -1093,7 +1093,7 @@ __metadata:
     "@nestjs/core": ^8.2.6
     "@nestjs/platform-fastify": ^8.2.6
     "@nestjs/swagger": ^5.2.0
-    "@types/chai": 4.3.2
+    "@types/chai": 4.3.3
     "@types/mocha": 9.0.0
     "@types/node": 16.11.47
     "@types/uuid": 8.3.4
@@ -1212,10 +1212,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chai@npm:4.3.2":
-  version: 4.3.2
-  resolution: "@types/chai@npm:4.3.2"
-  checksum: 5534d22e4e4772d3059ed962801d5a05da6b7f0d997ab8eede9363d6059e25c80369eb47a228e9538730eaf1b6896365134f53e21b244cbbaa861b377400ef14
+"@types/chai@npm:4.3.3":
+  version: 4.3.3
+  resolution: "@types/chai@npm:4.3.3"
+  checksum: 20cd094753e137cfc35939cae7f0ed78ecda7861e5c94704efab6979b9121a63807e9b631bdcf3a2792d6c6dba44050b13387262f9e63ebb040741c01c345f0a
   languageName: node
   linkType: hard
 
