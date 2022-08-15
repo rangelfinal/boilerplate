@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.48](https://github.com/rangelfinal/boilerplate/compare/v2.1.47...v2.1.48) (2022-08-15)
+
 ### [2.1.47](https://github.com/rangelfinal/boilerplate/compare/v2.1.46...v2.1.47) (2022-08-08)
 
 ### [2.1.46](https://github.com/rangelfinal/boilerplate/compare/v2.1.45...v2.1.46) (2022-08-08)
