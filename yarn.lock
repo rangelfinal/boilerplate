@@ -1098,7 +1098,7 @@ __metadata:
     "@types/node": 16.11.63
     "@types/uuid": 8.3.4
     "@types/validator": 13.7.7
-    "@types/yargs": 17.0.10
+    "@types/yargs": 17.0.13
     "@typescript-eslint/eslint-plugin": 5.10.2
     "@typescript-eslint/parser": 5.10.2
     chai: 4.3.6
@@ -1401,12 +1401,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/yargs@npm:17.0.10":
-  version: 17.0.10
-  resolution: "@types/yargs@npm:17.0.10"
+"@types/yargs@npm:17.0.13":
+  version: 17.0.13
+  resolution: "@types/yargs@npm:17.0.13"
   dependencies:
     "@types/yargs-parser": "*"
-  checksum: f0673cbfc08e17239dc58952a88350d6c4db04a027a28a06fbad27d87b670e909f9cd9e66f9c64cebdd5071d1096261e33454a55868395f125297e5c50992ca8
+  checksum: 0ab269abc2da2223cf0a8c16d578850fbe327d40fb85724b5c3f9f6cf38d03656ef699518c05d4df3bc337339ec6d0aad7df01682a9dca4783ad1ccc7336cf12
   languageName: node
   linkType: hard
 
