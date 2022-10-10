@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "description": "An opinionated typescript boilerplate",
-  "packageManager": "yarn@3.2.2",
+  "packageManager": "yarn@3.2.4",
   "author": "Vitor Rangel <rangel.final@gmail.com>",
   "engines": {
     "node": ">16"
