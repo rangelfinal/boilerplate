@@ -48,7 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/mocha", "npm:9.0.0"],\
             ["@types/node", "npm:16.11.66"],\
             ["@types/uuid", "npm:8.3.4"],\
-            ["@types/validator", "npm:13.7.7"],\
+            ["@types/validator", "npm:13.7.8"],\
             ["@types/yargs", "npm:17.0.13"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
@@ -1770,7 +1770,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/mocha", "npm:9.0.0"],\
             ["@types/node", "npm:16.11.66"],\
             ["@types/uuid", "npm:8.3.4"],\
-            ["@types/validator", "npm:13.7.7"],\
+            ["@types/validator", "npm:13.7.8"],\
             ["@types/yargs", "npm:17.0.13"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
@@ -2091,10 +2091,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:13.7.7", {\
-          "packageLocation": "./.yarn/cache/@types-validator-npm-13.7.7-34c5f5c17d-e32d2bc3b8.zip/node_modules/@types/validator/",\
+        ["npm:13.7.8", {\
+          "packageLocation": "./.yarn/cache/@types-validator-npm-13.7.8-9005221a61-69be66c1ec.zip/node_modules/@types/validator/",\
           "packageDependencies": [\
-            ["@types/validator", "npm:13.7.7"]\
+            ["@types/validator", "npm:13.7.8"]\
           ],\
           "linkType": "HARD"\
         }]\
