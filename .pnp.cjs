@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@nestjs/core", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:8.2.6"],\
             ["@nestjs/platform-fastify", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:8.2.6"],\
             ["@nestjs/swagger", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.2.0"],\
-            ["@types/chai", "npm:4.3.3"],\
+            ["@types/chai", "npm:4.3.4"],\
             ["@types/mocha", "npm:9.0.0"],\
             ["@types/node", "npm:16.11.68"],\
             ["@types/uuid", "npm:8.3.4"],\
@@ -52,7 +52,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/yargs", "npm:17.0.13"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
-            ["chai", "npm:4.3.6"],\
+            ["chai", "npm:4.3.7"],\
             ["commitiquette", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:1.2.1"],\
             ["commitizen", "npm:4.2.5"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
@@ -1766,7 +1766,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@nestjs/core", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:8.2.6"],\
             ["@nestjs/platform-fastify", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:8.2.6"],\
             ["@nestjs/swagger", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.2.0"],\
-            ["@types/chai", "npm:4.3.3"],\
+            ["@types/chai", "npm:4.3.4"],\
             ["@types/mocha", "npm:9.0.0"],\
             ["@types/node", "npm:16.11.68"],\
             ["@types/uuid", "npm:8.3.4"],\
@@ -1774,7 +1774,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/yargs", "npm:17.0.13"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.10.2"],\
-            ["chai", "npm:4.3.6"],\
+            ["chai", "npm:4.3.7"],\
             ["commitiquette", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:1.2.1"],\
             ["commitizen", "npm:4.2.5"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
@@ -1905,10 +1905,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/chai", [\
-        ["npm:4.3.3", {\
-          "packageLocation": "./.yarn/cache/@types-chai-npm-4.3.3-b99652dfb5-20cd094753.zip/node_modules/@types/chai/",\
+        ["npm:4.3.4", {\
+          "packageLocation": "./.yarn/cache/@types-chai-npm-4.3.4-fc230290e8-571184967b.zip/node_modules/@types/chai/",\
           "packageDependencies": [\
-            ["@types/chai", "npm:4.3.3"]\
+            ["@types/chai", "npm:4.3.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3474,13 +3474,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["chai", [\
-        ["npm:4.3.6", {\
-          "packageLocation": "./.yarn/cache/chai-npm-4.3.6-dba90e4b0b-acff93fd53.zip/node_modules/chai/",\
+        ["npm:4.3.7", {\
+          "packageLocation": "./.yarn/cache/chai-npm-4.3.7-48fdcf2584-0bba7d2678.zip/node_modules/chai/",\
           "packageDependencies": [\
-            ["chai", "npm:4.3.6"],\
+            ["chai", "npm:4.3.7"],\
             ["assertion-error", "npm:1.1.0"],\
             ["check-error", "npm:1.0.2"],\
-            ["deep-eql", "npm:3.0.1"],\
+            ["deep-eql", "npm:4.1.2"],\
             ["get-func-name", "npm:2.0.0"],\
             ["loupe", "npm:2.3.1"],\
             ["pathval", "npm:1.1.1"],\
@@ -4590,10 +4590,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["deep-eql", [\
-        ["npm:3.0.1", {\
-          "packageLocation": "./.yarn/cache/deep-eql-npm-3.0.1-9a66c09c65-4f4c9fb79e.zip/node_modules/deep-eql/",\
+        ["npm:4.1.2", {\
+          "packageLocation": "./.yarn/cache/deep-eql-npm-4.1.2-7017c4a2dc-1832456c5f.zip/node_modules/deep-eql/",\
           "packageDependencies": [\
-            ["deep-eql", "npm:3.0.1"],\
+            ["deep-eql", "npm:4.1.2"],\
             ["type-detect", "npm:4.0.8"]\
           ],\
           "linkType": "HARD"\
