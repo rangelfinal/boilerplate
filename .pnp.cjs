@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.68"],\
             ["@types/uuid", "npm:8.3.4"],\
             ["@types/validator", "npm:13.7.10"],\
-            ["@types/yargs", "npm:17.0.13"],\
+            ["@types/yargs", "npm:17.0.14"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.43.0"],\
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.43.0"],\
             ["chai", "npm:4.3.7"],\
@@ -1780,7 +1780,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.68"],\
             ["@types/uuid", "npm:8.3.4"],\
             ["@types/validator", "npm:13.7.10"],\
-            ["@types/yargs", "npm:17.0.13"],\
+            ["@types/yargs", "npm:17.0.14"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.43.0"],\
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.43.0"],\
             ["chai", "npm:4.3.7"],\
@@ -2138,10 +2138,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/yargs", [\
-        ["npm:17.0.13", {\
-          "packageLocation": "./.yarn/cache/@types-yargs-npm-17.0.13-67226ed55b-0ab269abc2.zip/node_modules/@types/yargs/",\
+        ["npm:17.0.14", {\
+          "packageLocation": "./.yarn/cache/@types-yargs-npm-17.0.14-dfaac868a7-7c57156043.zip/node_modules/@types/yargs/",\
           "packageDependencies": [\
-            ["@types/yargs", "npm:17.0.13"],\
+            ["@types/yargs", "npm:17.0.14"],\
             ["@types/yargs-parser", "npm:20.2.1"]\
           ],\
           "linkType": "HARD"\
