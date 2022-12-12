@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.44.0"],\
             ["chai", "npm:4.3.7"],\
             ["commitiquette", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:1.2.1"],\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["eslint", "npm:8.29.0"],\
             ["eslint-config-airbnb-base", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:15.0.0"],\
@@ -1785,7 +1785,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/parser", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:5.44.0"],\
             ["chai", "npm:4.3.7"],\
             ["commitiquette", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:1.2.1"],\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["eslint", "npm:8.29.0"],\
             ["eslint-config-airbnb-base", "virtual:dce9bfdbddada45345272c1d1838fbe96bac26cc31a7336388d02489e4edb06310a40a7f2c5f56192e7efd8643d4bdf8b5f306c3c7fc7653fba7a6c98605c947#npm:15.0.0"],\
@@ -3920,7 +3920,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/commitlint__cli", null],\
             ["chalk", "npm:4.1.2"],\
             ["change-case", "npm:4.1.2"],\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["conventional-commit-types", "npm:3.0.0"],\
             ["tslib", "npm:2.3.1"],\
             ["word-wrap", "npm:1.2.3"]\
@@ -3956,10 +3956,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:4.2.5", {\
-          "packageLocation": "./.yarn/cache/commitizen-npm-4.2.5-926ae634bf-28f5d10cf3.zip/node_modules/commitizen/",\
+        ["npm:4.2.6", {\
+          "packageLocation": "./.yarn/cache/commitizen-npm-4.2.6-d83eace98b-4423b25900.zip/node_modules/commitizen/",\
           "packageDependencies": [\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["cachedir", "npm:2.3.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["dedent", "npm:0.7.0"],\
