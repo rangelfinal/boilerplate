@@ -93,6 +93,6 @@
     "standard-version": "9.3.2",
     "ts-lib": "0.0.5",
     "ts-node": "10.4.0",
-    "typescript": "4.5.5"
+    "typescript": "4.9.5"
   }
 }
