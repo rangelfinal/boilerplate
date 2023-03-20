@@ -1104,7 +1104,7 @@ __metadata:
     "@types/mocha": 9.0.0
     "@types/node": 16.11.68
     "@types/uuid": 8.3.4
-    "@types/validator": 13.7.13
+    "@types/validator": 13.7.14
     "@types/yargs": 17.0.22
     "@typescript-eslint/eslint-plugin": 5.46.1
     "@typescript-eslint/parser": 5.46.1
@@ -1384,10 +1384,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/validator@npm:13.7.13":
-  version: 13.7.13
-  resolution: "@types/validator@npm:13.7.13"
-  checksum: 7a80d3da763f3d00342a0b14c09ca3f891c9b503ce1d4e39cde4c2ccba00b9592cde33950844fd557a2f666cfe0aff905b5ca9789b61d178729b7df783034df5
+"@types/validator@npm:13.7.14":
+  version: 13.7.14
+  resolution: "@types/validator@npm:13.7.14"
+  checksum: 51bd82cd08aa7d8006f97357b5768a77bfca30e4823b5962e63bbf6446f46b5afe236bec1089148a15fd04cc0a748a10e2dd1a559f07163ec5e4e9fb5581896e
   languageName: node
   linkType: hard
 
